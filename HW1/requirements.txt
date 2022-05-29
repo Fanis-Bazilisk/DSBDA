@@ -1,0 +1,10 @@
+cycler
+fonttools
+kiwisolver
+matplotlib
+numpy
+packaging
+Pillow
+pyparsing
+python-dateutil
+six
